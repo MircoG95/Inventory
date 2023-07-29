@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Projekt_Lagerbestand/1.0.0": {
+        "runtime": {
+          "Projekt_Lagerbestand.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekt_Lagerbestand/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
